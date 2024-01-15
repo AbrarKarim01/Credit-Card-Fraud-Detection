@@ -19,7 +19,7 @@ Financial institutions face a major challenge from credit card fraud. To create 
 
 ## Data Preprocessing
 
-Credit card transaction data cleaning, transformation, and normalization are the main goals of the data preprocessing section. Customize these steps based on your dataset characteristics.
+Credit card transaction data cleaning, transformation, and normalization are the main goals of the data preprocessing section. Customized these steps based on our dataset characteristics.
 
 ## Model Training
 
