@@ -15,7 +15,7 @@ Through the use of Jupyter Notebook for transparency and ease of collaboration, 
 
 ## Project Description
 
-Financial institutions face a major challenge from credit card fraud. In order to create an open and cooperative environment for developing a credit card fraud detection system, this project makes use of Jupyter Notebook. To help detect and stop fraudulent activity, the project workflow entails data preprocessing, model training, assessment, and deployment.
+Financial institutions face a major challenge from credit card fraud. To create an open and cooperative environment for developing a credit card fraud detection system, this project makes use of the Jupyter Notebook. To help detect and stop fraudulent activity, the project workflow entails data preprocessing, model training, assessment, and deployment.
 
 ## Data Preprocessing
 
@@ -27,11 +27,11 @@ In the notebook, train models using a variety of machine learning algorithms. To
 
 ## Evaluation
 
-In the notebook, train models using a variety of machine learning algorithms. To improve the accuracy of the model, experiment with feature engineering and hyperparameters.
+Analyze the model's performance concerning metrics like F1 score, precision, and recall. Understanding how well the model detects and stops fraudulent activity depends on this step.
 
 ## Deployment
 
-For the purpose of continuous monitoring and fraud detection in real-time credit card transactions, the deployment section offers instructions on how to incorporate the trained model into practical systems.
+For continuous monitoring and fraud detection in real-time credit card transactions, the deployment section offers instructions on how to incorporate the trained model into practical systems.
 
 ## Contributing
 
